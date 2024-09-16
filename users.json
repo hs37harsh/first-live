@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Christoforo",
+        "last_name": "Wilsdon",
+        "email": "cwilsdon0@bizjournals.com",
+        "gender": "Male"
+    },
+    {
+        "id": 2,
+        "first_name": "Elane",
+        "last_name": "Pimm",
+        "email": "epimm1@unicef.org",
+        "gender": "Female"
+    },
+    {
+        "id": 3,
+        "first_name": "Patrick",
+        "last_name": "Ingliby",
+        "email": "pingliby2@csmonitor.com",
+        "gender": "Male"
+    },
+    {
+        "id": 4,
+        "first_name": "Emelina",
+        "last_name": "Halgarth",
+        "email": "ehalgarth3@devhub.com",
+        "gender": "Female"
+    },
+    {
+        "id": 5,
+        "first_name": "Karia",
+        "last_name": "Yeldham",
+        "email": "kyeldham4@fda.gov",
+        "gender": "Female"
+    },
+    {
+        "id": 6,
+        "first_name": "Pauly",
+        "last_name": "Frankham",
+        "email": "pfrankham5@google.de",
+        "gender": "Male"
+    },
+    {
+        "id": 7,
+        "first_name": "Fonsie",
+        "last_name": "Rickard",
+        "email": "frickard6@wikispaces.com",
+        "gender": "Male"
+    },
+    {
+        "id": 8,
+        "first_name": "Che",
+        "last_name": "Casaroli",
+        "email": "ccasaroli7@ebay.com",
+        "gender": "Male"
+    },
+    {
+        "id": 9,
+        "first_name": "Fancy",
+        "last_name": "Pearcehouse",
+        "email": "fpearcehouse8@google.it",
+        "gender": "Female"
+    },
+    {
+        "id": 10,
+        "first_name": "Pate",
+        "last_name": "Wales",
+        "email": "pwales9@opera.com",
+        "gender": "Non-binary"
+    }
+]
